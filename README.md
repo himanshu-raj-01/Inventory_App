@@ -8,7 +8,7 @@ A lightweight inventory application with:
 
 ---
 
-## 👨‍💻 Operator Logins
+## Operator Logins
 
 | Username    | Password   |
 |-------------|------------|
@@ -17,7 +17,7 @@ A lightweight inventory application with:
 
 ---
 
-## 🔧 Installation
+## Installation
 
 ### 1. Install Requirements
 ```bash
